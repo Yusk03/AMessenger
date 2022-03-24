@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:gravity="center"
+  android:orientation="vertical"
+  tools:context=".StartActivity">
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:fontFamily="@font/aldrich"
+    android:text="@string/abills"
+    android:textColor="#f54b42"
+    android:textSize="70sp"
+    android:textStyle="bold" />
+
+  <Button
+    android:id="@+id/login"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginRight="20dp"
+
+    android:background="#254657"
+    android:text="@string/login"
+    android:textAllCaps="false"
+    android:textColor="@android:color/white"
+    android:textColorLink="#F1F1F1"
+    android:textSize="18sp" />
+
+  <Button
+    android:id="@+id/register"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginRight="20dp"
+
+    android:background="#254657"
+    android:text="@string/register"
+    android:textAllCaps="false"
+    android:textColor="@android:color/white"
+    android:textColorLink="#F1F1F1"
+    android:textSize="18sp" />
+
+</LinearLayout>

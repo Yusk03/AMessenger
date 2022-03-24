@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">AMessenger</string>
+  <string name="logout">Вийти</string>
+  <string name="search">Пошук…</string>
+  <string name="profile">Профіль</string>
+  <string name="hello">Привіт</string>
+  <string name="register">Реєстрація</string>
+  <string name="login">Логін</string>
+  <string name="abills">AMessenger</string>
+  <string name="your_email">Ваша пошта</string>
+  <string name="reset">Обнулити</string>
+</resources>
