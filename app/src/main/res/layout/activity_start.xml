@@ -9,14 +9,14 @@
   tools:context=".StartActivity">
 
   <TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_gravity="center_horizontal"
-    android:fontFamily="@font/aldrich"
-    android:text="@string/abills"
-    android:textColor="#f54b42"
-    android:textSize="70sp"
-    android:textStyle="bold" />
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center_horizontal"
+      android:fontFamily="@font/aldrich"
+      android:text="@string/abills"
+      android:textColor="#f54b42"
+      android:textSize="48sp"
+      android:textStyle="bold" />
 
   <Button
     android:id="@+id/login"

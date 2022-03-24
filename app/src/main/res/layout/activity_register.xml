@@ -28,7 +28,7 @@
             android:text="Реєстрація"
             android:textAlignment="center"
             android:textColor="@color/colorProfile"
-            android:textSize="65sp"
+            android:textSize="48sp"
             android:textStyle="bold"></TextView>
 
         <com.rengwuxian.materialedittext.MaterialEditText
@@ -37,6 +37,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:hint="Логін"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
             android:textColor="@color/colorPrimaryDark"
             android:textColorHint="@color/colorPrimary"
             app:met_floatingLabel="normal"
@@ -50,6 +52,8 @@
             android:layout_marginTop="10dp"
             android:hint="Електронна пошта"
             android:inputType="textEmailAddress"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
             android:textColor="@color/colorPrimaryDark"
             android:textColorHint="@color/colorPrimary"
             android:textIsSelectable="true"
@@ -65,6 +69,8 @@
             android:background="#FFFFFF"
             android:hint="Пароль"
             android:inputType="textPassword"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
             android:textColor="@color/colorPrimaryDark"
             android:textColorHighlight="@color/colorProfile"
             android:textColorHint="@color/colorPrimary"
