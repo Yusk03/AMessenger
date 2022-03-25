@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>AMessenger</h1>
+  <p>
+    <strong>Another useless messenger.</strong>
+  </p>
+</div>
+
 ## 🚩 Table of Contents
 
 - [Project philosophy](#-project-philosophy)
