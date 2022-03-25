@@ -2,7 +2,7 @@
 
 - [Project philosophy](#-project-philosophy)
 - [Wiki](#-wiki)
-- [Wiki](#-tech-stack)
+- [Tech stack](#-tech-stack)
 - [Get started](#--get-started-)
 - [Contributing](#-contributing)
 - [Spread the word!](#-spread-the-word)
