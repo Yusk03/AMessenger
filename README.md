@@ -10,15 +10,15 @@
 - [Project philosophy](#-project-philosophy)
 - [Wiki](#-wiki)
 - [Tech stack](#-tech-stack)
-- [Get started](#--get-started-)
-- [Contributing](#-contributing)
+- [Get started](#-get-started)
+- [Contributing](#%EF%B8%8F-contributing)
 - [Spread the word!](#-spread-the-word)
 - [Examples](#-examples)
-- [License](#-license)
+- [License](#%EF%B8%8F-license)
 
 <br />
 
-### 🧐 Project philosophy
+## 🧐 Project philosophy
 
 > Another useless messenger.
 > 
@@ -26,18 +26,18 @@
 >
 > Remember all this can do in AMessenger!
 
-### 📒 Wiki
+## 📒 Wiki
 
-This project hasn't got a wiki, but you van help us ^ ^
+This project hasn't got a wiki, but you can help us ^^
 
-### 👨‍💻 Tech stack
+## 👨‍💻 Tech stack
 
 Here's a brief high-level overview of the tech stack the Well app uses:
 
 - ["Java"](https://developer.android.com/codelabs/build-your-first-android-app#0)
 - ["Firebase"](https://firebase.google.com/)
 
-### 🎉  Get started ⚙️
+## 🎉 Get started
 
 **1.** Clone project
 ```bash
@@ -54,55 +54,28 @@ gradlew build
 
 #### *or use Android Studio*.
 
-### ✍️ Contributing
+## ✍️ Contributing
 
 Interested in contributing to the Well app project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
 
-### 🌟 Spread the word!
+## 🌟 Spread the word!
 
 If you want to say thank you and/or support active development write us, thanks.
 
 <br />
 
-### 👀 Examples
+## 👀 Examples
 
-<div>
-  <p align="center">
-    <img src="https://i.ibb.co/LzWLfF0/photo-2022-03-24-21-57-49.jpg" alt="example"> 
-  </p>
-</div>
+<p align="center">
+  <img height="600" src="https://i.ibb.co/LzWLfF0/photo-2022-03-24-21-57-49.jpg" alt="example"> 
+  <img height="600" src="https://i.ibb.co/286f7ZS/photo-2022-03-24-21-57-55.jpg" alt="example"> 
+  <img height="600" src="https://i.ibb.co/RYY0Ng7/photo-2022-03-24-21-57-59.jpg" alt="example"> 
+  <img height="600" src="https://i.ibb.co/wzmwHZH/photo-2022-03-24-21-58-02.jpg" alt="example"> 
+  <img height="600" src="https://i.ibb.co/xqWRnD4/photo-2022-03-24-21-58-05.jpg" alt="example"> 
+  <img height="600" src="https://i.ibb.co/MBXtdZV/photo-2022-03-24-21-58-09.jpg" alt="example"> 
+</p>
 
-<div>
-  <p align="center">
-    <img src="https://i.ibb.co/286f7ZS/photo-2022-03-24-21-57-55.jpg" alt="example"> 
-  </p>
-</div>
-
-<div>
-  <p align="center">
-    <img src="https://i.ibb.co/RYY0Ng7/photo-2022-03-24-21-57-59.jpg" alt="example"> 
-  </p>
-</div>
-
-<div>
-  <p align="center">
-    <img src="https://i.ibb.co/wzmwHZH/photo-2022-03-24-21-58-02.jpg" alt="example"> 
-  </p>
-</div>
-
-<div>
-  <p align="center">
-    <img src="https://i.ibb.co/xqWRnD4/photo-2022-03-24-21-58-05.jpg" alt="example"> 
-  </p>
-</div>
-
-<div>
-  <p align="center">
-    <img src="https://i.ibb.co/MBXtdZV/photo-2022-03-24-21-58-09.jpg" alt="example"> 
-  </p>
-</div>
-
-### ⚠️ License
+## ⚠️ License
 
 MIT License
 
